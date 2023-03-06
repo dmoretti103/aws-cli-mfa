@@ -1,7 +1,7 @@
 # aws-cli-mfa
 Register MFA Token to aws credentials file
 
-git clone https://github.com/dmoretti103/aws-cli-mfa.git 
+git clone https://github.com/dmoretti103/aws-cli-mfa.git
 cd aws-cli-mfa/
 ./get-mfa.sh
 
